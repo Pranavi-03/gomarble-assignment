@@ -10,6 +10,7 @@ The GoMarble Product Review Scraper is a dynamic API built using FastAPI and Pla
 - Robust error handling.
 
 ## Installation
+## Architecture Diagram
 
 ### Prerequisites
 - Python 3.10 or higher
