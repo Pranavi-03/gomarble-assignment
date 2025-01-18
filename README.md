@@ -1,4 +1,3 @@
-# gomarble-assignment
 # GoMarble: Product Review Scraper
 
 ## Overview
