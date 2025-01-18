@@ -21,3 +21,5 @@ The GoMarble Product Review Scraper is a dynamic API built using FastAPI and Pla
    ```bash
    git clone <repository-url>
    cd gomarble_assignment
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
